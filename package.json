@@ -1,0 +1,17 @@
+{
+  "name": "mycalc",
+  "version": "1.0.0",
+  "description": "simple command line calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "bin": {
+    "mycalc": "./bin/bin.js"
+  },
+  "author": "Bassam Jarad <bassamjarad@gmail.com>",
+  "license": "ISC"
+}
