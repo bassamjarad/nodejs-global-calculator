@@ -1,5 +1,5 @@
 {
-  "name": "mycalc",
+  "name": "simple-command-line-calculator",
   "version": "1.0.0",
   "description": "simple command line calculator",
   "main": "index.js",
